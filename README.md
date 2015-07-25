@@ -11,5 +11,7 @@ CRM Based on Twitter
  7. https://pypi.python.org/pypi/pyasn1/
  8. https://pypi.python.org/pypi/pyOpenSSL
  9. https://pypi.python.org/pypi/ndg-httpsclient
- 
+ 10. https://github.com/pyca/cryptography
+ 11. https://pypi.python.org/pypi/cffi
+ 12. https://pypi.python.org/pypi/pycparser/2.14
  
