@@ -10,12 +10,7 @@ CRM Based on Twitter
  4. https://github.com/kennethreitz/requests
  5. https://github.com/requests/requests-oauthlib
  6. https://pypi.python.org/pypi/oauthlib
- 7. https://pypi.python.org/pypi/pyasn1/
- 8. https://pypi.python.org/pypi/pyOpenSSL
- 9. https://pypi.python.org/pypi/ndg-httpsclient
- 10. https://github.com/pyca/cryptography
- 11. https://pypi.python.org/pypi/cffi
- 12. https://pypi.python.org/pypi/pycparser/2.14
+
  
 ### Compile cffi
  * install homebrew
