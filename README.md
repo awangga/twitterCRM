@@ -1,6 +1,7 @@
 # twitterCRM
 CRM Based on Twitter
-
+### Upgrade to python 2.7.10
+ 1. use python2.7-32
 ### Requirement Lib
  1. https://github.com/tweepy/tweepy
  2. https://github.com/pypa/pip
@@ -14,4 +15,11 @@ CRM Based on Twitter
  10. https://github.com/pyca/cryptography
  11. https://pypi.python.org/pypi/cffi
  12. https://pypi.python.org/pypi/pycparser/2.14
+ 
+### Compile cffi
+ * install homebrew
+ * ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ * brew install gcc
+ * python setup.py install
+ 
  
