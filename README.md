@@ -1,7 +1,8 @@
 # twitterCRM
 CRM Based on Twitter
 ### Upgrade to python 2.7.10
- 1. use python2.7-32
+ 1. https://www.python.org/ftp/python/2.7.10/python-2.7.10-macosx10.6.pkg
+ 2. use python2.7-32
 ### Requirement Lib
  1. https://github.com/tweepy/tweepy
  2. https://github.com/pypa/pip
